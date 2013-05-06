@@ -26,4 +26,4 @@ As seems potential and infinite, Cloud has the support of the Clouderati for ove
 
 ## Why?
 
-Because Cloud is... [Magic](http://i.imgur.com/fUrKqHi.gif)
+Because Cloud is... ![Magic](http://i.imgur.com/fUrKqHi.gif)
