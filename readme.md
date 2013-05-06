@@ -4,6 +4,8 @@ Polygen-Cloud is a grammer file for Polygen, an "innovative system for bursting 
 
 Polygen uses grammer definitions that follow custom sytatical and lexical rules. 
 
+Polygen-Cloud has been adapted from the Debian gr.grm grammer file.
+
 
 ## Usage
 
@@ -26,4 +28,5 @@ As seems potential and infinite, Cloud has the support of the Clouderati for ove
 
 ## Why?
 
-Because Cloud is... ![Magic](http://i.imgur.com/fUrKqHi.gif)
+Because Cloud is... 
+![Magic](http://i.imgur.com/fUrKqHi.gif)
